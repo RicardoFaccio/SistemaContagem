@@ -4,7 +4,7 @@ Sistema de controle de alunos de uma escola
 
 Requisitos:
 Considere a quantidade de alunos presentes na sala, percorra do zero até o
-número total de alunos e rotorne os seguintes resultados:
+número total de alunos e retorne os seguintes resultados:
 
 - se o número for par, escreva "par" e o número correspondente,
 
